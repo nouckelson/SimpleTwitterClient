@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dtic/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6_62261ede3464eb440e29078b0a50ad9b36699734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.0_9fe263609079b325f268a7af7081a77280ca03ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtic/AndroidStudioProjects/Android-Week3/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/pre-dexed/debug/codepath-utils_a627c57bfe3314ddde286b7e17477f335fec4755.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtic/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0_d888dee2d9d11b7dd10a7695a72f28a2d7e488d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtic/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT_f85c30eaf9abffbdd9a48fa7efb4d866605bf5bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtic/AndroidStudioProjects/Android-Week3/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3_2ae2200037c2c835fb857af76bab840c4742f69a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.0_c21d29c967c2e5b0fde7559cdc270afc659542c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0_65496c82cdb4506942fc5ce1f67e0641c3b95943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtic/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/pre-dexed/debug/picasso-2.4.0_2259bc1b78c038e12310547eb83a3c2e4cdc18ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dtic/AndroidStudioProjects/Android-Week3/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1_aa7fae8f8d617ad7df5caecc37f0abcc22ee2a86.jar" />
+    </item>
+
+</items>

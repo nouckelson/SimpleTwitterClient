@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/res/merged/debug/menu/menu_timeline.xml",
+        "source": "/home/dtic/AndroidStudioProjects/Android-Week3/app/src/main/res/menu/menu_timeline.xml"
+    },
+    {
+        "merged": "/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/home/dtic/AndroidStudioProjects/Android-Week3/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/home/dtic/AndroidStudioProjects/Android-Week3/app/build/intermediates/res/merged/debug/menu/menu_compose.xml",
+        "source": "/home/dtic/AndroidStudioProjects/Android-Week3/app/src/main/res/menu/menu_compose.xml"
+    }
+]
